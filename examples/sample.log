@@ -1,0 +1,4 @@
+2025-12-20 10:00:01 ERROR Failed authentication for user admin from 192.168.1.50
+2025-12-20 10:00:05 INFO User logged in successfully
+2025-12-20 10:01:20 WARNING Timeout while contacting https://example.com/api
+2025-12-20 10:02:10 sudo: unauthorized command attempt by user guest

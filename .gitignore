@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# Output reports (keep examples in /examples instead)
+*_report.txt
+*_ioc_report.txt
+*_matches.txt
+matched_lines.txt
