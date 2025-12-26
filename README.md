@@ -19,6 +19,8 @@ Built as a fundamentals-first Python project focused on scripting, automation, a
 ## Quick Start
 
 ### Run against a sample log
+<img width="674" height="175" alt="Screenshot 2025-12-25 at 10 59 51 PM" src="https://github.com/user-attachments/assets/da59c2e4-f218-416b-aa1c-b05ff06cd103" />
+
 ```bash
 
 python3 ioc_scanner.py --input examples/sample.log --output examples/sample_report.txt --matches examples/sample_matches.txt 
@@ -42,7 +44,14 @@ python3 ioc_scanner.py --help
 ## Output
 
 - *_report.txt: Summary counts and keywords hit totals
+
+<img width="440" height="483" alt="Screenshot 2025-12-25 at 10 56 24 PM" src="https://github.com/user-attachments/assets/e88b4adf-00cc-48d1-b500-a1c1acb445a2" />
+
+
 - *_matches.txt: Raw lines that matched any keyword/IOC (optional)
+
+<img width="675" height="164" alt="Screenshot 2025-12-25 at 10 56 05 PM" src="https://github.com/user-attachments/assets/01304cbd-6e40-4b4b-8b88-37493e5ffb26" />
+
 
 ## Skills Demonstrated
 
